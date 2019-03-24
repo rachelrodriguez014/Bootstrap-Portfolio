@@ -1,0 +1,42 @@
+/* General Page Styling */
+body {
+    background: url(background.png);
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+.navbar {
+    padding-left: 150px;
+    padding-right: 150px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-decoration: none;
+    
+}
+
+.nav-bar-brand{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    height: 70px;
+    font-size: 30px;
+    padding: 10px; 
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: bold;
+    
+}
+
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
